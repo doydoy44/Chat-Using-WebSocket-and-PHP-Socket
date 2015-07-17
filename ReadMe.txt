@@ -1,5 +1,7 @@
 Running Server :
 
+0. Put server.php and index.php in localhot/Chat-Using-WebSocket-and-PHP-Socket-master directory
+
 1. Change host address in index.php and server.php
 
 2. Go to your shell command-line interface
